@@ -1,3 +1,2 @@
 # hello-world
-hello world
-hola world
+hello colorado
